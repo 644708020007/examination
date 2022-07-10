@@ -46,6 +46,9 @@ class Abank(Bank):
         print("--Interest--")
         print(f"Interset:{self.interest:.2f} bath")
         print(f"Monthly Repayment:{self.mounthlypay:.2f} bath")
+
+if __name__ == 'name':
+    l1.=
         
 
 
