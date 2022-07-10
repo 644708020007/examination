@@ -10,7 +10,7 @@ class Mule(Horse,Donkey):
 
     def show_info(self):
         return(f'Name{self.name}n\Color{self.color}n\Old{self.age}n\Weight{self.weight}')
-        print()
+        
 
 if __name__ == "__main__":
     print("**********Mumu Info*********")
