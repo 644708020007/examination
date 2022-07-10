@@ -1,4 +1,4 @@
-from bank import Bank
+from ex03.bank import Bank
 
 class Abank(Bank):
     def __init__(self,interest:float,pay:float) -> None:

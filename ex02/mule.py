@@ -1,5 +1,5 @@
-from house import Horse
-from donkey import Donkey
+from ex02.house import Horse
+from ex02.donkey import Donkey
 
 class Mule(Horse,Donkey):
     def __init__(self, name: str, color: str, age:int, weight:float) -> None:
